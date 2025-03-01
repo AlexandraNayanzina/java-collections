@@ -1,4 +1,4 @@
-package org.naianzina.javacollections;
+package org.naianzina.javacollections.generics;
 
 import java.util.ArrayList;
 import java.util.Collection;
