@@ -14,8 +14,6 @@ public class OfTest {
         List <String> fruits = List.of("Banana", "Apple", "Orange");
         System.out.println(fruits);
 
-
-
     }
 
 }
