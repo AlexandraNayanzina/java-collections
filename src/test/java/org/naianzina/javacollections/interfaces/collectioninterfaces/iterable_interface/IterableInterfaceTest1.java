@@ -1,4 +1,4 @@
-package org.naianzina.javacollections.iterable_interface;
+package org.naianzina.javacollections.interfaces.collectioninterface.iterable_interface;
 
 
 import java.util.ArrayList;

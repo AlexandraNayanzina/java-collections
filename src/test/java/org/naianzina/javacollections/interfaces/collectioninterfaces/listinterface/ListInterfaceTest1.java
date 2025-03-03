@@ -1,4 +1,4 @@
-package org.naianzina.javacollections.listinterface;
+package org.naianzina.javacollections.interfaces.collectioninterface.listinterface;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

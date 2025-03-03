@@ -1,4 +1,4 @@
-package org.naianzina.javacollections.listinterface;
+package org.naianzina.javacollections.interfaces.collectioninterface.listinterface;
 
 import java.util.Arrays;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package org.naianzina.javacollections.queueinterface;
+package org.naianzina.javacollections.interfaces.collectioninterface.queueinterface;
 
 import java.util.LinkedList;
 import java.util.Queue;

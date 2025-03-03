@@ -1,4 +1,4 @@
-package org.naianzina.javacollections;
+package org.naianzina.javacollections.interfaces.collectioninterface;
 
 import java.util.*;
 
