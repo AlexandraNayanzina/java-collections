@@ -12,7 +12,7 @@ public class ParametrizedClassExample {
     }
 }
 
-class MyGenericClass <T>{
+class MyGenericClass <T> {
     private T value;
 
     public MyGenericClass(T val){
